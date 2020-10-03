@@ -6,6 +6,7 @@
     </head>
     <body>
        <?php
+       //Modificación para comprobación de git
        //Esto me permite redireccionar a un formulario
          header("Location:./vistas/creo_login.php");
          
